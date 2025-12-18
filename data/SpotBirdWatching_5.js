@@ -1,0 +1,1 @@
+var json_SpotBirdWatching_5 = {"type":"FeatureCollection","name":"SpotBirdWatching_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Object":"Spot Bird Watching","Koord_x":127.74831,"Koord_y":0.46386},"geometry":{"type":"Point","coordinates":[127.748,0.463862]}}]}

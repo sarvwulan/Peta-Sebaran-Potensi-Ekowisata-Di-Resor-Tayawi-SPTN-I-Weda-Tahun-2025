@@ -1,0 +1,1 @@
+var json_TempatRumahMTD_7 = {"type":"FeatureCollection","name":"TempatRumahMTD_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Koord":127.741,"Object":"Titik Rumah MTD","koord_x":127.741,"Koord_y":"0.448071"},"geometry":{"type":"Point","coordinates":[127.740695,0.448071]}}]}

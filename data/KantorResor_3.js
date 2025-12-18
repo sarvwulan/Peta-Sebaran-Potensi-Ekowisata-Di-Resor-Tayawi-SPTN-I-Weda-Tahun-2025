@@ -1,0 +1,1 @@
+var json_KantorResor_3 = {"type":"FeatureCollection","name":"KantorResor_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Object":"Kantor Resor","Koord_x":127.73968,"Koord_y":0.44176},"geometry":{"type":"Point","coordinates":[127.74,0.44176]}}]}

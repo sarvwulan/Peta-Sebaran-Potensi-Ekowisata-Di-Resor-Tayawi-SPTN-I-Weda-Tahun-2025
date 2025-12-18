@@ -1,0 +1,1 @@
+var json_SuakaParuhBengkok_6 = {"type":"FeatureCollection","name":"SuakaParuhBengkok_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Object":"Suaka Paruh Bengkok","Koord_x":"127.7174","Koord_y":"0.4164"},"geometry":{"type":"Point","coordinates":[127.7174,0.4164]}}]}
